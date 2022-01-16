@@ -1,0 +1,11 @@
+.footer__author-link {
+  color: #fff;
+  font-size: 14px;
+  line-height: 16px;
+  text-decoration: none;
+  transition: opacity .4s ease-out;
+}
+
+.footer__author-link:hover {
+  opacity: .8;
+}

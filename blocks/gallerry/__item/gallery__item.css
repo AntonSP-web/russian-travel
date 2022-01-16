@@ -1,0 +1,10 @@
+.gallery__item {
+  max-width: 100%;
+  color: #fff; /* чтобы подпись к картинке была белого цвета, если она не загрузится */
+  cursor: pointer;
+  transition: opacity .3s ease-out;
+}
+
+.gallery__item:hover {
+  opacity: .8;
+}

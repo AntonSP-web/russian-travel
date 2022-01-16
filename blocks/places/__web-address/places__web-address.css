@@ -1,0 +1,5 @@
+.places__web-address {
+  display: flex;
+  flex-direction: column;
+  align-self: end;
+}
