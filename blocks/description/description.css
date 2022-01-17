@@ -1,3 +1,24 @@
 .description {
   padding: 0 148px 92px;
 }
+
+@media screen and (max-width: 1024px) {
+  .description {
+    max-width: 928px;
+    padding: 0 48px 92px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .description {
+    max-width: 720px;
+    padding: 0 24px 90px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .description {
+    max-width: 500px;
+    padding: 0 0 66px;
+  }
+}

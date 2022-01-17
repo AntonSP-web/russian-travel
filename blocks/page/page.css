@@ -3,4 +3,11 @@
   margin: 0 auto;
   font-family: 'Inter', 'Arial', sans-serif;
   padding-top: 28px;
+  text-rendering: optimizeLegibility;
+}
+
+@media screen and (max-width: 320px) {
+  .page {
+    padding-top: 16px;
+  }
 }

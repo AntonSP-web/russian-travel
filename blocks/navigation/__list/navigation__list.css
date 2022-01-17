@@ -4,3 +4,15 @@
   padding: 0;
   list-style-type: none;
 }
+
+@media screen and (max-width: 550px) {
+  .navigation__list {
+    justify-content: space-between;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .navigation__list {
+    flex-direction: column;
+  }
+}

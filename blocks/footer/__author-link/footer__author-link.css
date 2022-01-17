@@ -9,3 +9,10 @@
 .footer__author-link:hover {
   opacity: .8;
 }
+
+@media screen and (max-width: 530px) {
+  .footer__author-link {
+    font-size: 12px;
+    line-height: 14px;
+  }
+}

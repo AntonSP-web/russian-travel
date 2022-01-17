@@ -36,6 +36,7 @@
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
 @import url(../blocks/footer/__author-link/footer__author-link.css);
+@import url(../blocks/navigation/navigation.css);
 @import url(../blocks/navigation/__list/navigation__list.css);
 @import url(../blocks/navigation/__item/navigation__item.css);
 @import url(../blocks/navigation/__link/navigation__link.css);
