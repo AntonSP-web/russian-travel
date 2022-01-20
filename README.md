@@ -13,6 +13,4 @@
 
 ## Ссылка на проект
 https://antonsp-web.github.io/russian-travel/
-## Ссылка на проект
-https://antonsp-web.github.io/russian-travel/
 
